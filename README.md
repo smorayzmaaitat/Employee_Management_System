@@ -44,4 +44,4 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/smorayzmaaitat/Employee-Management-System.git
+   git clone https://github.com/smorayzmaaitat/Employee_Management_System.git
