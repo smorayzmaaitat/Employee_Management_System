@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H0+rHzGcIBU=",
+  "dgSpecHash": "j+Pe9ePpbVs=",
   "success": true,
-  "projectFilePath": "/home/rix/internship/employee-management-system/all2/Employee_Management_System_api/Employee_Management_System_api.csproj",
+  "projectFilePath": "/home/rix/internship/employee-management-system/all2/all/Employee_Management_System_api/Employee_Management_System_api.csproj",
   "expectedPackageFiles": [
     "/home/rix/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/rix/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
@@ -60,9 +60,9 @@
     "/home/rix/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/home/rix/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
     "/home/rix/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512",
+    "/home/rix/.nuget/packages/microsoft.netcore.app.ref/8.0.6/microsoft.netcore.app.ref.8.0.6.nupkg.sha512",
     "/home/rix/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512",
-    "/home/rix/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.6/microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512",
-    "/home/rix/.nuget/packages/microsoft.netcore.app.ref/8.0.6/microsoft.netcore.app.ref.8.0.6.nupkg.sha512"
+    "/home/rix/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.6/microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512"
   ],
   "logs": [
     {

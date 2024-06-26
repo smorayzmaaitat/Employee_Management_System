@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rix/internship/employee-management-system/all2/Employee_Management_System_api/Employee_Management_System_api.csproj": {}
+    "/home/rix/internship/employee-management-system/all2/all/Employee_Management_System_api/Employee_Management_System_api.csproj": {}
   },
   "projects": {
-    "/home/rix/internship/employee-management-system/all2/Employee_Management_System_api/Employee_Management_System_api.csproj": {
+    "/home/rix/internship/employee-management-system/all2/all/Employee_Management_System_api/Employee_Management_System_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rix/internship/employee-management-system/all2/Employee_Management_System_api/Employee_Management_System_api.csproj",
+        "projectUniqueName": "/home/rix/internship/employee-management-system/all2/all/Employee_Management_System_api/Employee_Management_System_api.csproj",
         "projectName": "Employee_Management_System_api",
-        "projectPath": "/home/rix/internship/employee-management-system/all2/Employee_Management_System_api/Employee_Management_System_api.csproj",
+        "projectPath": "/home/rix/internship/employee-management-system/all2/all/Employee_Management_System_api/Employee_Management_System_api.csproj",
         "packagesPath": "/home/rix/.nuget/packages/",
-        "outputPath": "/home/rix/internship/employee-management-system/all2/Employee_Management_System_api/obj/",
+        "outputPath": "/home/rix/internship/employee-management-system/all2/all/Employee_Management_System_api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rix/.nuget/NuGet/NuGet.Config"
